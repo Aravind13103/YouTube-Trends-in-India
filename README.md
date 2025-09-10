@@ -20,34 +20,6 @@ The workflow includes:
 
 ---
 
-## 📂 Project Structure  
-youtube-trends-analysis/
-│
-├── data/
-| └──   IN_category_id.json
-| └──  INvideos.csv
-|
-├── cleaned dataset
-| └── youtube_trending_final_cleaned.csv
-│
-├── notebooks/
-│ └── something.ipynb # Python EDA & cleaning
-│
-├── sql/
-│ └── analysis.sql # SQL queries (duplicates, top channels, etc.)
-│ └── youtube.db # SQLite database
-|
-├── dashboard/
-│ └── Youtube_dashboard.pbix # Power BI interactive dashboard
-│
-├── images/
-│ └── Youtube_dashboard.pdf # Dashboard screenshots
-│
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
----
-
 ## 🔍 Key Insights  
 - **Entertainment** dominates with **12.6B+ views** across trending videos.  
 - **Music** is the second-largest but **Comedy** shows disproportionately high **comment engagement**.  
