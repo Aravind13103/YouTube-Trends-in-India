@@ -29,7 +29,9 @@ The workflow includes:
 ---
 
 ## 📊 Dashboard Preview  
-![Dashboard](https://drive.google.com/file/d/13vxY2OYReJXKQUfZfgKLlNNwI3TMvS7c/view?usp=sharing)  
+## 📊 Dashboard Preview  
+![Dashboard](https://drive.google.com/uc?id=13vxY2OYReJXKQUfZfgKLlNNwI3TMvS7c)
+
 
 The Power BI dashboard provides:  
 - **Category Engagement**: Likes & comments per category  
