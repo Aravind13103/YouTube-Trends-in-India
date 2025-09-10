@@ -29,7 +29,7 @@ The workflow includes:
 ---
 
 ## 📊 Dashboard Preview  
-![Dashboard](images/youtube_dashboard.jpg)
+![Dashboard](image/youtube_dashboard.jpg)
 
 
 The Power BI dashboard provides:  
